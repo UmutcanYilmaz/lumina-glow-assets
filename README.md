@@ -6,18 +6,18 @@ Official high-resolution marketing visual suites (1200x1800 px, RGB, plain white
 
 | # | Model Code | Category | Product Name | Volume | Barcode | Visuals |
 |---|---|---|---|---|---|:---:|
-| 1 | `LG-SRM-ANTIACNE` | SERUM | Akne Karşıtı Matlaştırıcı Yüz Serumu | 30 ml | `8684830040270` | 8 Slides |
-| 2 | `LG-SRM-ANTIBLEMISH` | SERUM | Leke Karşıtı Aydınlatıcı Yüz Serumu | 30 ml | `8684830040263` | 8 Slides |
-| 3 | `LG-SRM-BETAGLUCAN` | SERUM | Beta Glucan Sıkılaştırıcı Kolajen Serum | 30 ml | `8684830040294` | 8 Slides |
-| 4 | `LG-SRM-RETINOL` | SERUM | Bio Peptide Retinol Kırışıklık Karşıtı Serum | 30 ml | `8684830040287` | 8 Slides |
-| 5 | `LG-SRM-HYALURONIC` | SERUM | Hyalüronik Asit Yoğun Nemlendirici Serum | 30 ml | `8684830040256` | 8 Slides |
-| 6 | `LG-SRM-SALMONDNA` | SERUM | Somon DNA Cilt Yenileyici Gençlik Serumu | 30 ml | `8684830040331` | 8 Slides |
-| 7 | `LG-SRM-VITAMINC` | SERUM | C Vitamini Aydınlatıcı Canlandırıcı Serum | 30 ml | `8684830040249` | 8 Slides |
-| 8 | `LG-SRM-VITCOMPLEX` | SERUM | Vitamin Complex Canlandırıcı Multi-Vitamin Serum | 30 ml | `8684830040317` | 8 Slides |
+| 1 | `LG-SRM-ANTIACNE` | SERUM | Akne Karşıtı Matlaştırıcı Yüz Serumu | 50 ml | `8684830040270` | 8 Slides |
+| 2 | `LG-SRM-ANTIBLEMISH` | SERUM | Leke Karşıtı Aydınlatıcı Yüz Serumu | 50 ml | `8684830040263` | 8 Slides |
+| 3 | `LG-SRM-BETAGLUCAN` | SERUM | Beta Glucan Sıkılaştırıcı Kolajen Serum | 50 ml | `8684830040294` | 8 Slides |
+| 4 | `LG-SRM-RETINOL` | SERUM | Bio Peptide Retinol Kırışıklık Karşıtı Serum | 50 ml | `8684830040287` | 8 Slides |
+| 5 | `LG-SRM-HYALURONIC` | SERUM | Hyalüronik Asit Yoğun Nemlendirici Serum | 50 ml | `8684830040256` | 8 Slides |
+| 6 | `LG-SRM-SALMONDNA` | SERUM | Somon DNA Cilt Yenileyici Gençlik Serumu | 50 ml | `8684830040331` | 8 Slides |
+| 7 | `LG-SRM-VITAMINC` | SERUM | C Vitamini Aydınlatıcı Canlandırıcı Serum | 50 ml | `8684830040249` | 8 Slides |
+| 8 | `LG-SRM-VITCOMPLEX` | SERUM | Vitamin Complex Canlandırıcı Multi-Vitamin Serum | 50 ml | `8684830040317` | 8 Slides |
 | 9 | `LG-SCB-SEABREEZE` | SCRUB | Sea Breeze Ölü Deniz Tuzu Vücut Peelingi | 220 ml | `8684830040577` | 8 Slides |
-| 10 | `LG-SCB-STRAWBERRY` | SCRUB | Çilekli Ölü Deniz Tuzu Vücut Peelingi | 500 ml | `8684830040171` | 8 Slides |
-| 11 | `LG-SCB-VANILLA` | SCRUB | Vanilyalı Ölü Deniz Tuzu Vücut Peelingi | 500 ml | `8684830040195` | 8 Slides |
-| 12 | `LG-SCB-FORESTFRUIT` | SCRUB | Orman Meyveli Ölü Deniz Tuzu Vücut Peelingi | 200 ml | `8684830040188` | 8 Slides |
+| 10 | `LG-SCB-STRAWBERRY` | SCRUB | Çilekli Ölü Deniz Tuzu Vücut Peelingi | 220 ml | `8684830040171` | 8 Slides |
+| 11 | `LG-SCB-VANILLA` | SCRUB | Vanilyalı Ölü Deniz Tuzu Vücut Peelingi | 220 ml | `8684830040195` | 8 Slides |
+| 12 | `LG-SCB-FORESTFRUIT` | SCRUB | Orman Meyveli Ölü Deniz Tuzu Vücut Peelingi | 220 ml | `8684830040188` | 8 Slides |
 | 13 | `LG-SCB-ALOEVERA` | SCRUB | Aloe Vera Ölü Deniz Tuzu Vücut Peelingi | 220 ml | `8684830040560` | 8 Slides |
 | 14 | `LG-SUN-DPANTHENOL` | SUN-CREAM | D-Panthenol Yüksek Korumalı Güneş Kremi SPF 50+ | 100 ml | `8684830040034` | 8 Slides |
 | 15 | `LG-CLN-PAPAINPOWDER` | CLEANSER | Papain Enzim Peeling Özellikli Toz Temizleyici | 100 gr | `8684830040379` | 8 Slides |
@@ -32,7 +32,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-ANTIACNE — Akne Karşıtı Matlaştırıcı Yüz Serumu
 - **Category**: SERUM
 - **Barcode**: `8684830040270`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -48,7 +48,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-ANTIBLEMISH — Leke Karşıtı Aydınlatıcı Yüz Serumu
 - **Category**: SERUM
 - **Barcode**: `8684830040263`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -64,7 +64,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-BETAGLUCAN — Beta Glucan Sıkılaştırıcı Kolajen Serum
 - **Category**: SERUM
 - **Barcode**: `8684830040294`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -80,7 +80,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-RETINOL — Bio Peptide Retinol Kırışıklık Karşıtı Serum
 - **Category**: SERUM
 - **Barcode**: `8684830040287`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -96,7 +96,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-HYALURONIC — Hyalüronik Asit Yoğun Nemlendirici Serum
 - **Category**: SERUM
 - **Barcode**: `8684830040256`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -112,7 +112,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-SALMONDNA — Somon DNA Cilt Yenileyici Gençlik Serumu
 - **Category**: SERUM
 - **Barcode**: `8684830040331`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -128,7 +128,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-VITAMINC — C Vitamini Aydınlatıcı Canlandırıcı Serum
 - **Category**: SERUM
 - **Barcode**: `8684830040249`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -144,7 +144,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SRM-VITCOMPLEX — Vitamin Complex Canlandırıcı Multi-Vitamin Serum
 - **Category**: SERUM
 - **Barcode**: `8684830040317`
-- **Specification**: 30 ml
+- **Specification**: 50 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -176,7 +176,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SCB-STRAWBERRY — Çilekli Ölü Deniz Tuzu Vücut Peelingi
 - **Category**: SCRUB
 - **Barcode**: `8684830040171`
-- **Specification**: 500 ml
+- **Specification**: 220 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -192,7 +192,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SCB-VANILLA — Vanilyalı Ölü Deniz Tuzu Vücut Peelingi
 - **Category**: SCRUB
 - **Barcode**: `8684830040195`
-- **Specification**: 500 ml
+- **Specification**: 220 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
@@ -208,7 +208,7 @@ All visual assets are delivered in 1200x1800 resolution with seamless pure `#FFF
 ### LG-SCB-FORESTFRUIT — Orman Meyveli Ölü Deniz Tuzu Vücut Peelingi
 - **Category**: SCRUB
 - **Barcode**: `8684830040188`
-- **Specification**: 200 ml
+- **Specification**: 220 ml
 
 | Slide | Description | jsDelivr CDN URL | GitHub Raw URL |
 |:---:|---|---|---|
